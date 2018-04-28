@@ -1,0 +1,28 @@
+[
+  {
+    "LogActivityID": 7273175,
+    "ParentID": 7273174,
+    "LogDate": "2018-04-27T15:55:39",
+    "Machine": "RD00155D972377",
+    "UserName": "magoojq",
+    "LogActivityEnum": "Delete",
+    "TableName": "Booking",
+    "TableID": 76428,
+    "EntryID": 24288,
+    "Description": "CustomString1||<Deleted>\nCustomString3||<Deleted>\nNumberOfChildrenFree|0|<Deleted>\nNumberOfGuests|1|<Deleted>\nSecurityUserID|2|<Deleted>\nCustomDate1|null|<Deleted>\nCustomString8||<Deleted>\nResvChargeToEntry|True|<Deleted>\nCustomString10||<Deleted>\nCheckInDate|2018-08-24T00:00:00|<Deleted>\nCustomString4||<Deleted>\nTermSessionID|84|<Deleted>\nNumberOfChildren|0|<Deleted>\nDeleted\nBookingLinkTypeEnum|Reference|<Deleted>\nDateBilled|null|<Deleted>\nEntryID|24288|<Deleted>\nNumberOfGuestsFree|0|<Deleted>\nContractDateEnd|2018-12-16T00:00:00|<Deleted>\nCustomString2||<Deleted>\nDateCreated|2018-03-19T09:19:00|<Deleted>\nRoomRateID|9|<Deleted>\nDateModifiedBilling|2018-03-19T09:20:24|2018-04-27T15:55:20\nCustomBit1|False|<Deleted>\nCustomString6||<Deleted>\nBookingID|76428|<Deleted>\nCheckInDateActual|null|<Deleted>\nEntryStatusEnum|Cancelled|<Deleted>\nGroupID|0|<Deleted>\nRoomLocationID|13|<Deleted>\nSpecialRequirement||<Deleted>\nContractDateStart|2018-08-24T00:00:00|<Deleted>\nStart_BookingReasonID|0|<Deleted>\nRoomTypeID|12|<Deleted>\nETA|2018-04-27T00:00:00|<Deleted>\nCustomDate2|null|<Deleted>\nCustomBit2|False|<Deleted>\nETD|2018-04-27T00:00:00|<Deleted>\nCustomBit3|False|<Deleted>\nCustomDate4|null|<Deleted>\nDateModified|2018-03-19T09:20:24|<Deleted>\nEnd_BookingReasonID|0|<Deleted>\nCustomDate3|null|<Deleted>\ntimestamp|0x000000000021586E|<Deleted>\nCheckOutDate|2018-12-16T00:00:00|<Deleted>\nCustomBit4|False|<Deleted>\nRoomSpaceID|4322|<Deleted>\nCheckOutDateActual|null|<Deleted>\nDateChargedTo|2018-08-24T00:00:00|<Deleted>\nEntryInvitationID|0|<Deleted>\nBookingTypeID|0|<Deleted>\nCustomString9||<Deleted>\nComments|StarRezPortalX - Requested by .Bernot, .Adam (Pref) (ID 5098)|<Deleted>\nRoomLocationFixed|True|<Deleted>\nCustomString5||<Deleted>\nHousekeepingID|0|<Deleted>\nCustomString7||<Deleted>\nRoomRateAmount|4641.0000|<Deleted>\n",
+    "DateModified": "2018-04-27T15:55:39"
+  },
+  {
+    "LogActivityID": 7273262,
+    "ParentID": 7273261,
+    "LogDate": "2018-04-27T16:07:53",
+    "Machine": "RD00155D972377",
+    "UserName": "magoojq",
+    "LogActivityEnum": "Delete",
+    "TableName": "Booking",
+    "TableID": 76429,
+    "EntryID": 24288,
+    "Description": "RoomRateAmount|4641.0000|<Deleted>\nContractDateEnd|2019-05-20T00:00:00|<Deleted>\nCustomDate2|null|<Deleted>\nCustomDate3|null|<Deleted>\nDateChargedTo|2019-01-12T00:00:00|<Deleted>\nSecurityUserID|2|<Deleted>\nRoomLocationFixed|True|<Deleted>\nNumberOfGuests|1|<Deleted>\ntimestamp|0x000000000021586F|<Deleted>\nRoomSpaceID|4322|<Deleted>\nEntryInvitationID|0|<Deleted>\nRoomRateID|9|<Deleted>\nEntryID|24288|<Deleted>\nSpecialRequirement||<Deleted>\nStart_BookingReasonID|0|<Deleted>\nCheckInDateActual|null|<Deleted>\nNumberOfChildren|0|<Deleted>\nCustomDate1|null|<Deleted>\nDateModifiedBilling|2018-03-19T09:20:24|2018-04-27T16:07:53\nEntryStatusEnum|Cancelled|<Deleted>\nCustomString5||<Deleted>\nRoomTypeID|12|<Deleted>\nDateCreated|2018-03-19T09:19:00|<Deleted>\nCheckInDate|2019-01-12T00:00:00|<Deleted>\nDeleted\nCustomString2||<Deleted>\nComments|StarRezPortalX - Requested by .Bernot, .Adam (Pref) (ID 5098)|<Deleted>\nDateModified|2018-03-19T09:20:24|<Deleted>\nRoomLocationID|13|<Deleted>\nCheckOutDate|2019-05-10T00:00:00|<Deleted>\nBookingID|76429|<Deleted>\nResvChargeToEntry|True|<Deleted>\nCustomBit2|False|<Deleted>\nCustomBit1|False|<Deleted>\nNumberOfChildrenFree|0|<Deleted>\nGroupID|0|<Deleted>\nNumberOfGuestsFree|0|<Deleted>\nCustomString8||<Deleted>\nCheckOutDateActual|null|<Deleted>\nCustomString4||<Deleted>\nCustomString7||<Deleted>\nContractDateStart|2019-01-12T00:00:00|<Deleted>\nCustomString1||<Deleted>\nCustomDate4|null|<Deleted>\nCustomString3||<Deleted>\nHousekeepingID|0|<Deleted>\nCustomBit4|False|<Deleted>\nETA|2018-04-27T00:00:00|<Deleted>\nEnd_BookingReasonID|0|<Deleted>\nCustomString10||<Deleted>\nETD|2018-04-27T00:00:00|<Deleted>\nBookingTypeID|0|<Deleted>\nBookingLinkTypeEnum|Reference|<Deleted>\nDateBilled|null|<Deleted>\nCustomBit3|False|<Deleted>\nTermSessionID|85|<Deleted>\nCustomString9||<Deleted>\nCustomString6||<Deleted>\n",
+    "DateModified": "2018-04-27T16:07:53"
+  }
+]

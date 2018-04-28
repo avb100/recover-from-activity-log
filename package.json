@@ -1,0 +1,17 @@
+{
+  "name": "recover-from-activity-log",
+  "version": "1.0.0",
+  "description": "Re-create deleted StarRez records using Activity Log data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Bernot",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "dotenv": "^5.0.1",
+    "inquirer": "^5.2.0",
+    "request": "^2.85.0"
+  }
+}
