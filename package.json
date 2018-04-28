@@ -2,7 +2,7 @@
   "name": "recover-from-activity-log",
   "version": "1.0.0",
   "description": "Re-create deleted StarRez records using Activity Log data.",
-  "main": "index.js",
+  "main": "recover.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

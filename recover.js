@@ -1,5 +1,5 @@
 /**
- * Restore deleted records from Activity Log data.
+ * Recover deleted records from Activity Log data.
  */
 
 const fs = require('fs');
